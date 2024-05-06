@@ -1,0 +1,322 @@
+[
+    {
+      "brend": "BMW",
+      "model": "X5",
+      "yil": 2022,
+      "tezkorlik": "250 km/soat",
+      "narx": "60000",
+      "rasm": "https://media.ed.edmunds-media.com/bmw/x5/2024/oem/2024_bmw_x5_4dr-suv_xdrive50e_fq_oem_1_815.jpg"
+    },
+    {
+      "brend": "BMW",
+      "model": "3 Series",
+      "yil": 2023,
+      "tezkorlik": "240 km/soat",
+      "narx": "40000",
+      "rasm": "https://www.topgear.com/sites/default/files/2022/09/1-BMW-3-Series.jpg"
+    },
+    {
+      "brend": "BMW",
+      "model": "M5",
+      "yil": 2024,
+      "tezkorlik": "280 km/soat",
+      "narx": "100000",
+      "rasm": "https://www.bmw.ru/content/dam/bmw/marketRU/bmw_ru/all-models/m-series/m5-sedan/2020/equipment/bmw-5-series-sedan-m-models-equipment-sd-individual-03.jpg"
+    },
+    {
+      "brend": "BMW",
+      "model": "X7",
+      "yil": 2022,
+      "tezkorlik": "240 km/soat",
+      "narx": "80000",
+      "rasm": "https://www.afisha.uz/uploads/media/2022/04/0942638.jpeg"
+    },
+    {
+      "brend": "BMW",
+      "model": "i8",
+      "yil": 2023,
+      "tezkorlik": "260 km/soat",
+      "narx": "150000",
+      "rasm": "https://wroom.ru/i/cars2/bmw_i8_1.jpg"
+    },
+    {
+      "brend": "FERRARI",
+      "model": "488 GTB",
+      "yil": 2023,
+      "tezkorlik": "330 km/soat",
+      "narx": "300000",
+      "rasm": "https://static01.nyt.com/images/2016/08/05/automobiles/autoreviews/driven-ferrari-488gtb/driven-ferrari-488gtb-superJumbo.jpg"
+    },
+    {
+      "brend": "FERRARI",
+      "model": "SF90 Stradale",
+      "yil": 2024,
+      "tezkorlik": "340 km/soat",
+      "narx": "500000",
+      "rasm": "https://global-uploads.webflow.com/615c0895d9d3ed1906fe58be/63aaea228056333aa59815c5_WhatsApp%20Image%202022-12-27%20at%2010.19.25.jpeg"
+    },
+    {
+      "brend": "FERRARI",
+      "model": "812 Superfast",
+      "yil": 2022,
+      "tezkorlik": "340 km/soat",
+      "narx": "350000",
+      "rasm": "https://cdn.ferrari.com/cms/network/media/img/resize/5d36d28bc3f9ec0af6475721-ferrari-812superfast_2017-dynamics-focuson_01_d?"
+    },
+    {
+      "brend": "FERRARI",
+      "model": "Roma",
+      "yil": 2023,
+      "tezkorlik": "320 km/soat",
+      "narx": "250000",
+      "rasm": "https://www.ferrariofgreenwich.com/wp-content/uploads/2022/08/p2a2965.jpg"
+    },
+    {
+      "brend": "FERRARI",
+      "model": "Portofino M",
+      "yil": 2024,
+      "tezkorlik": "320 km/soat",
+      "narx": "230000",
+      "rasm": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ferrari_Portofino_M_IMG_4351.jpg"
+    },
+    {
+      "brend": "LAMBORGHINI",
+      "model": "Aventador SVJ",
+      "yil": 2024,
+      "tezkorlik": "350 km/soat",
+      "narx": "500000",
+      "rasm": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/aventador/svj/2021/03_19/aventador_svj_overview_m.jpg"
+    },
+    {
+      "brend": "LAMBORGHINI",
+      "model": "Huracan Evo",
+      "yil": 2023,
+      "tezkorlik": "325 km/soat",
+      "narx": "300000",
+      "rasm": "https://www.topgear.com/sites/default/files/cars-car/image/2019/01/tom_5734.jpg"
+    },
+    {
+      "brend": "LAMBORGHINI",
+      "model": "Urus",
+      "yil": 2022,
+      "tezkorlik": "305 km/soat",
+      "narx": "200000",
+      "rasm": "https://www.ilusso.com/imagetag/1319/main/l/Used-2022-Lamborghini-Urus-1685984443.jpg"
+    },
+    {
+      "brend": "LAMBORGHINI",
+      "model": "Sián FKP 37",
+      "yil": 2022,
+      "tezkorlik": "350 km/soat",
+      "narx": "3000000",
+      "rasm": "https://dealerimages.dealereprocess.com/image/upload/w_1000/2500998.jpg"
+    },
+    {
+      "brend": "LAMBORGHINI",
+      "model": "Huracan STO",
+      "yil": 2024,
+      "tezkorlik": "320 km/soat",
+      "narx": "350000",
+      "rasm": "https://avatars.mds.yandex.net/get-vertis-journal/3934100/2020-11-18-6d4adca919af4d0dbc1bae724e56d4fe.jpg_1622736885747/orig"
+    },
+    {
+      "brend": "MERCEDES",
+      "model": "S-Class",
+      "yil": 2022,
+      "tezkorlik": "280 km/soat",
+      "narx": "100000",
+      "rasm": "https://www.topgear.com/sites/default/files/2022/03/1-Mercedes-S-Class-plug-in.jpg"
+    },
+    {
+      "brend": "MERCEDES",
+      "model": "E-Class",
+      "yil": 2023,
+      "tezkorlik": "260 km/soat",
+      "narx": "70000",
+      "rasm": "https://www.ixbt.com/img/n1/news/2023/3/3/photo_2023-04-25_22-15-50_large.jpg"
+    },
+    {
+      "brend": "MERCEDES",
+      "model": "GLC",
+      "yil": 2022,
+      "tezkorlik": "250 km/soat",
+      "narx": "50000",
+      "rasm": "https://i.ytimg.com/vi/dJmwwssXYTw/maxresdefault.jpg"
+    },
+    {
+      "brend": "MERCEDES",
+      "model": "AMG GT",
+      "yil": 2023,
+      "tezkorlik": "310 km/soat",
+      "narx": "150000",
+      "rasm": "https://www.topgear.com/sites/default/files/2023/11/1%20Mercedes%20AMG%20GT.jpg"
+    },
+    {
+      "brend": "MERCEDES",
+      "model": "GLE",
+      "yil": 2024,
+      "tezkorlik": "270 km/soat",
+      "narx": "90000",
+      "rasm": "https://www.motortrend.com/uploads/2023/10/003-2023-Mercedes-Benz-GLE-450e-front-three-quarters-in-action.jpg?w=768&width=768&q=75&format=webp"
+    },
+    {
+      "brend": "TESLA",
+      "model": "Model S Plaid",
+      "yil": 2023,
+      "tezkorlik": "320 km/soat",
+      "narx": "130000",
+      "rasm": "https://i.insider.com/6494700c1465b60019989fe9?width=700"
+    },
+    {
+      "brend": "TESLA",
+      "model": "Model 3",
+      "yil": 2022,
+      "tezkorlik": "260 km/soat",
+      "narx": "40000",
+      "rasm": "https://upload.wikimedia.org/wikipedia/commons/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg"
+    },
+    {
+      "brend": "TESLA",
+      "model": "Model X",
+      "yil": 2024,
+      "tezkorlik": "280 km/soat",
+      "narx": "90000",
+      "rasm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1200px-2017_Tesla_Model_X_100D_Front.jpg"
+    },
+    {
+      "brend": "TESLA",
+      "model": "Model Y",
+      "yil": 2023,
+      "tezkorlik": "290 km/soat",
+      "narx": "50000",
+      "rasm": "https://hips.hearstapps.com/hmg-prod/images/2020-tesla-model-y-long-range-101-1592842279.jpg"
+    },
+    {
+      "brend": "TESLA",
+      "model": "Cybertruck",
+      "yil": 2022,
+      "tezkorlik": "400 km/soat",
+      "narx": "70000",
+      "rasm": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cybertruck-fremont-cropped.jpg"
+    },
+    {
+      "brend": "Audi",
+      "model": "A8",
+      "yil": "2024",
+      "tezkorlik": "250 km/soat",
+      "narx": "160000",
+      "rasm": "https://repost.uz/storage/uploads/5-1650883966-avto-post-material.jpeg"
+    },
+    {
+      "brend": "Audi",
+      "model": "Q7",
+      "yil": "2024",
+      "tezkorlik": "240 km/soat",
+      "narx": "95000",
+      "rasm": "https://autoreview.ru/images/Article/1763/Article_176321_860_575.jpg"
+    },
+    {
+      "brend": "Audi",
+      "model": "A6",
+      "yil": "2024",
+      "tezkorlik": "230 km/soat",
+      "narx": "75000",
+      "rasm": "https://cdn.motor1.com/images/mgl/qzoWZ/s3/2020-audi-a6-sedan.jpg"
+    },
+    {
+      "brend": "Audi",
+      "model": "Q5",
+      "yil": "2024",
+      "tezkorlik": "220 km/soat",
+      "narx": "60000",
+      "rasm": "https://www.motortrend.com/uploads/2022/07/2023-Audi-Q5-45-front-three-quarter-view.jpg"
+    },
+    {
+      "brend": "Audi",
+      "model": "A3",
+      "yil": "2024",
+      "tezkorlik": "210 km/soat",
+      "narx": "45000",
+      "rasm": "https://avatars.mds.yandex.net/get-vertis-journal/4080458/2020-12-07-6c45bdcbabfd4218bfa52bc1a8136e80.jpg_1622736961536/orig"
+    },
+    {
+      "brend": "Chevrolet",
+      "model": "Corvette",
+      "yil": "2024",
+      "tezkorlik": "280 km/soat",
+      "narx": "100000",
+      "rasm": "https://media.ed.edmunds-media.com/chevrolet/corvette/2024/oem/2024_chevrolet_corvette_coupe_z06_fq_oem_1_1600.jpg"
+    },
+    {
+      "brend": "Chevrolet",
+      "model": "Camaro",
+      "yil": "2024",
+      "tezkorlik": "250 km/soat",
+      "narx": "60000",
+      "rasm": "https://hips.hearstapps.com/hmg-prod/images/2019-chevrolet-camaro-2-0t-1le-6mt-106-1539790974.jpg?crop=0.603xw:0.738xh;0.306xw,0.262xh&resize=768:*"
+    },
+    {
+      "brend": "Chevrolet",
+      "model": "Malibu",
+      "yil": "2024",
+      "tezkorlik": "230 km/soat",
+      "narx": "40000",
+      "rasm": "https://hips.hearstapps.com/hmg-prod/images/2019-chevrolet-malibu-rs-124-1568289291.jpg?crop=0.616xw:0.753xh;0.151xw,0.191xh&resize=768:*"
+    },
+    {
+      "brend": "Chevrolet",
+      "model": "Equinox",
+      "yil": "2024",
+      "tezkorlik": "220 km/soat",
+      "narx": "35000",
+      "rasm": "https://www.ixbt.com/img/n1/news/2024/0/2/2025-chevrolet-equinox%20(5)_large.jpg"
+    },
+    {
+      "brend": "Chevrolet",
+      "model": "Traverse",
+      "yil": "2024",
+      "tezkorlik": "210 km/soat",
+      "narx": "45000",
+      "rasm": "https://www.topgear.com/sites/default/files/2023/07/2024-chevrolet-traverse-rs-100.jpg"
+    },
+    {
+      "brend": "Ford",
+      "model": "Mustang",
+      "yil": "2024",
+      "tezkorlik": "270 km/soat",
+      "narx": "70000",
+      "rasm": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2024/collections/dm/24_FRD_MST_S5A0331_1e_V2.tif?croppathe=1_4x3&wid=900"
+    },
+    {
+      "brend": "Ford",
+      "model": "F-150",
+      "yil": "2024",
+      "tezkorlik": "240 km/soat",
+      "narx": "60000",
+      "rasm": "https://cdn.motor1.com/images/mgl/vxpx0v/s1/2024-ford-f-150-platinum-exterior.jpg"
+    },
+    {
+      "brend": "Ford",
+      "model": "Escape",
+      "yil": "2024",
+      "tezkorlik": "230 km/soat",
+      "narx": "35000",
+      "rasm": "https://media.ed.edmunds-media.com/ford/escape/2023/oem/2023_ford_escape_4dr-suv_plug-in-hybrid_fq_oem_1_1280.jpg"
+    },
+    {
+      "brend": "Ford",
+      "model": "Explorer",
+      "yil": "2024",
+      "tezkorlik": "220 km/soat",
+      "narx": "45000",
+      "rasm": "https://hips.hearstapps.com/hmg-prod/images/2025-ford-explorer-st-110-65ba6d640cbb3.jpg?crop=0.744xw:0.906xh;0.171xw,0.0807xh&resize=768:*"
+    },
+    {
+      "brend": "Ford",
+      "model": "Focus",
+      "yil": "2024",
+      "tezkorlik": "210 km/soat",
+      "narx": "30000",
+      "rasm": "https://cdn.motor1.com/images/mgl/A97LL/s1/ford-focus-st-line-restyling-2022.jpg"
+    }
+  ]
